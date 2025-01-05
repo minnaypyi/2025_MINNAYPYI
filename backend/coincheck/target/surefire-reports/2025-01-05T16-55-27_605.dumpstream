@@ -1,0 +1,5 @@
+# Created at 2025-01-05T16:55:27.763
+Boot Manifest-JAR contains absolute paths in classpath 'D:\NUS\ISS\GDip SA\Internship\Oracle\TechnicalAssessment\coincheck\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
